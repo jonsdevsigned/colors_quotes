@@ -1,5 +1,5 @@
 import './App.css'
-import CardQuotes from './components/cardQuotes'
+import CardQuotes from './components/CardQuotes'
 
 function App() {
 	return (
